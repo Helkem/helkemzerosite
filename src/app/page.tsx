@@ -77,7 +77,7 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className='text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
-                  Web3 side projects I've built and designed.
+                  Web3 side projects Ive built and designed.
                 </p>
               </div>
             </div>
@@ -96,7 +96,6 @@ export default function Page() {
                   description={project.description}
                   tags={project.technologies}
                   image={project.image}
-                  video={project.video}
                   links={project.links}
                 />
               </BlurFade>

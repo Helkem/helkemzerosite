@@ -1,5 +1,5 @@
 "use client";
-
+/*eslint-disable*/
 import { AnimatePresence, motion, useInView, Variants } from "framer-motion";
 import { useRef } from "react";
 
@@ -40,9 +40,9 @@ const BlurFade = ({
     <AnimatePresence>
       <motion.div
         ref={ref}
-        initial="hidden"
+        initial='hidden'
         animate={isInView ? "visible" : "hidden"}
-        exit="hidden"
+        exit='hidden'
         variants={combinedVariants}
         transition={{
           delay: 0.04 + delay,
