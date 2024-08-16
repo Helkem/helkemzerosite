@@ -116,13 +116,13 @@ export default function Page() {
               </h2>
               <p className='mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
                 Email{" "}
-                <span className='text-black font-semibold hover:underline'>
+                <span className='text-black dark:text-white font-semibold hover:underline'>
                   helkemzero@gmail
                 </span>{" "}
                 or message on{" "}
                 <Link
                   href={DATA.contact.social.X.url}
-                  className='text-black hover:underline font-semibold'
+                  className='text-black dark:text-white hover:underline font-semibold'
                 >
                   Twitter/X
                 </Link>{" "}
