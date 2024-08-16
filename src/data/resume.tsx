@@ -6,7 +6,7 @@ export const DATA = {
   initials: "H",
   url: "https://dillion.io",
 
-  description: "Frontend Developer and UI Designer. Focused on Web3.",
+  description: "Frontend Developer - UI Designer. Focused on Web3.",
   summary:
     "Expertise in React, Next.js, Ethers.js, and smart contract interactions along with UI/UX design skills. Passionate about driving Web3 adoption through intuitive user experiences and innovative product design. Worked with teams @3xcalibur @Dinero. ",
   avatarUrl: "/helkem.jpg",
