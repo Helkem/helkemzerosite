@@ -99,7 +99,7 @@ export const DATA = {
       dates: "2024",
       active: true,
       description:
-        "Web3 application to search for any NFT Collection by contract address. Select a chain, input any NFT contract address or click the scrolling collections to search for and display an NFT collection. Eligible addresses avaliable on Ethereum mainet, Binance SmartChain, Polygon, Avalanche.",
+        "Fullstack Web3 application to search for any NFT Collection by contract address. Select a chain, input any NFT contract address or click the scrolling collections to search for and display an NFT collection.",
       technologies: [
         "React",
         "Vite",
