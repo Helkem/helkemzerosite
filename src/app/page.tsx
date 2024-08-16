@@ -124,7 +124,7 @@ export default function Page() {
                   href={DATA.contact.social.X.url}
                   className='text-black hover:underline font-semibold'
                 >
-                  twitter/x
+                  Twitter/X
                 </Link>{" "}
                 and I&apos;ll respond as soon as possible.
               </p>
