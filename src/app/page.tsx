@@ -118,7 +118,7 @@ export default function Page() {
                 <span className='text-black dark:text-white font-semibold hover:underline'>
                   helkemzero@gmail
                 </span>{" "}
-                or message on{" "}
+                or contact me on{" "}
                 <Link
                   href={DATA.contact.social.X.url}
                   className='text-black dark:text-white hover:underline font-semibold'
