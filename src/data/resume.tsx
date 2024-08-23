@@ -111,7 +111,6 @@ export const DATA = {
         "Wagmi",
         "Viem",
         "Antd Design",
-        "Tailwind CSS",
       ],
       links: [
         {
