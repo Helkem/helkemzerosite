@@ -67,7 +67,7 @@ export const DATA = {
       dates: "2023",
       active: true,
       description:
-        "A Web3 React App to send Stablecoins to any ETH address. Integrates the use of Wagmi and Viem libraries to directly interact with the ERC20 smart contract on ETH Mainnet. This application is built and connected to the official Ethereum mainnet. Only send real tokens unless intended.",
+        "A Web3 React App to send Stablecoins, view Onchain balances, and check prices against USD. Integrates the use of Wagmi and Viem libraries to interact with the ERC20 smart contracts on ETH Mainnet. Only send real tokens unless intended.",
       technologies: [
         "React",
         "Vite",
