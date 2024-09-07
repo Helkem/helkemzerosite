@@ -81,7 +81,7 @@ export default function Page() {
                 </h2>
 
                 <p className='text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
-                  Web3 side projects I've developed and designed.
+                  Web3 side projects I`&apos;`ve developed and designed.
                 </p>
               </div>
             </div>
