@@ -62,6 +62,69 @@ export const DATA = {
 
   projects: [
     {
+      title: "CryptoIndex",
+      href: "https://cryptoindexz.vercel.app/",
+      dates: "2023",
+      active: true,
+      description:
+        "A Fullstack Web3 application to track the latest prices, marketcaps, and more for your favorite cryptocurrencies. Search from the top 100 cryptocurrencies and add favorites to your watchlist, filter by rank, marketcap, and price.  ",
+      technologies: [
+        "React",
+        "Vite",
+        "Typescript",
+        "TailwindCSS",
+        "NodeJs",
+        "ExpressJS",
+        "Shadcn",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://cryptoindexz.vercel.app/",
+          icon: <Icons.globe className='size-3' />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Helkem/CryptoIndex",
+          icon: <Icons.github className='size-3' />,
+        },
+      ],
+      image: "/cryptoindex.png",
+    },
+    {
+      title: "ZeroXNfts",
+      href: "https://zeroxnft.vercel.app/",
+      dates: "2024",
+      active: true,
+      description:
+        "A Fullstack Web3 application to search for any NFT Collection by contract address. Select a chain, input any NFT contract address or click the scrolling collections to search for and display an NFT collection.",
+      technologies: [
+        "React",
+        "Vite",
+        "Typescript",
+        "NodeJS",
+        "ExpressJS",
+        "TailwindCSS",
+        "Ethers.js",
+        "Wagmi",
+        "Viem",
+        "Antd Design",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://zeroxnft.vercel.app/",
+          icon: <Icons.globe className='size-3' />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Helkem/ZeroXNFTs",
+          icon: <Icons.github className='size-3' />,
+        },
+      ],
+      image: "/zeronfts.png",
+    },
+    {
       title: "StablePay",
       href: "https://stablepayx.vercel.app/",
       dates: "2023",
@@ -92,39 +155,6 @@ export const DATA = {
         },
       ],
       image: "/stablepay.png",
-    },
-    {
-      title: "ZeroXNfts",
-      href: "https://zeroxnft.vercel.app/",
-      dates: "2024",
-      active: true,
-      description:
-        "Fullstack Web3 application to search for any NFT Collection by contract address. Select a chain, input any NFT contract address or click the scrolling collections to search for and display an NFT collection.",
-      technologies: [
-        "React",
-        "Vite",
-        "Typescript",
-        "NodeJS",
-        "ExpressJS",
-        "TailwindCSS",
-        "Ethers.js",
-        "Wagmi",
-        "Viem",
-        "Antd Design",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://zeroxnft.vercel.app/",
-          icon: <Icons.globe className='size-3' />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Helkem/ZeroXNFTs",
-          icon: <Icons.github className='size-3' />,
-        },
-      ],
-      image: "/zeronfts.png",
     },
   ],
 } as const;
