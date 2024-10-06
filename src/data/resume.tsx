@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Helkem",
   initials: "H",
-  url: "https://dillion.io",
+  url: "https://helkem.vercel.app/",
 
-  description: "Frontend Developer - UI Designer. Focused on Web3.",
+  description: "Focused on Web3.",
   summary:
     "Expertise in React, Next.js, Typescript, Ethers.js, and smart contract interactions along with UI/UX design skills. Passionate about driving Web3 adoption through intuitive user experiences and innovative product design. Worked with teams @3xcalibur @Dinero. ",
   avatarUrl: "/helkem.jpg",
