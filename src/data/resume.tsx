@@ -50,6 +50,13 @@ export const DATA = {
         navbar: true,
       },
 
+      Dribble: {
+        name: "Dribbble",
+        url: "https://dribbble.com/Helkem",
+        icon: Icons.dribble,
+        navbar: true,
+      },
+
       email: {
         name: "Send Email",
         url: "#",
