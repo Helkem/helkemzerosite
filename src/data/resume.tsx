@@ -12,6 +12,7 @@ export const DATA = {
   avatarUrl: "/helkem.jpg",
   skills: [
     "React",
+    "React Native",
     "Next.js",
     "Typescript",
     "Node.js",
